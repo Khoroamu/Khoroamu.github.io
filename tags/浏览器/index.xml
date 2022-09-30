@@ -1,9 +1,9 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>浏览器 - Tag - Midnight is all the same.</title>
+        <title>浏览器 - Tag - KHOROAMU</title>
         <link>https://khoroamu.github.io/tags/%E6%B5%8F%E8%A7%88%E5%99%A8/</link>
-        <description>浏览器 - Tag - Midnight is all the same.</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Fri, 30 Sep 2022 10:12:41 &#43;0800</lastBuildDate><atom:link href="https://khoroamu.github.io/tags/%E6%B5%8F%E8%A7%88%E5%99%A8/" rel="self" type="application/rss+xml" /><item>
+        <description>浏览器 - Tag - KHOROAMU</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 30 Sep 2022 10:12:41 &#43;0800</lastBuildDate><atom:link href="https://khoroamu.github.io/tags/%E6%B5%8F%E8%A7%88%E5%99%A8/" rel="self" type="application/rss+xml" /><item>
     <title>CVE-2021-21220漏洞分析</title>
     <link>https://khoroamu.github.io/cve-2021-21220%E6%BC%8F%E6%B4%9E%E5%88%86%E6%9E%90/</link>
     <pubDate>Fri, 30 Sep 2022 10:12:41 &#43;0800</pubDate>
