@@ -9,7 +9,7 @@
     <pubDate>Fri, 30 Sep 2022 10:12:41 &#43;0800</pubDate>
     <author>KHOROAMU</author>
     <guid>https://khoroamu.github.io/cve-2021-21220%E6%BC%8F%E6%B4%9E%E5%88%86%E6%9E%90/</guid>
-    <description><![CDATA[该漏洞在Pwn2Own 2021中被利用，提交者在相关issue中提交了exploit。关于漏洞的修补可以查看对应commit。 从diff结果]]></description>
+    <description><![CDATA[漏洞背景 该漏洞在Pwn2Own 2021中被利用，提交者在相关issue中提交了exploit。关于漏洞的修补可以查看对应commit。 漏洞分]]></description>
 </item>
 </channel>
 </rss>
